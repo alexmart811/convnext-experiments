@@ -1,0 +1,14 @@
+artifact_uri: file:///home/alex/%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB/convnext-experiments/convnext_experiments/datasets_comparison_benchmark/runs/mlruns/302345063648514564/d0193f2f030f454587c59621cf2d8b86/artifacts
+end_time: 1774207622910
+entry_point_name: ''
+experiment_id: '302345063648514564'
+lifecycle_stage: active
+run_id: d0193f2f030f454587c59621cf2d8b86
+run_name: Flowers-5_cls
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774206032207
+status: 3
+tags: []
+user_id: alex
