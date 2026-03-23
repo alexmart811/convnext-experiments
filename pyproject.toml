@@ -28,6 +28,9 @@ dev = [
 line-length = 100
 target-version = ["py312"]
 
+[[tool.uv.index]]
+url = "https://download.pytorch.org/whl/cpu"
+
 [tool.isort]
 profile = "black"
 line_length = 100

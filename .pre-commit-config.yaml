@@ -1,6 +1,3 @@
-# Установка хуков один раз: pre-commit install
-# Проверка всего кода: pre-commit run --all-files
-
 default_language_version:
   python: python3.12
 
